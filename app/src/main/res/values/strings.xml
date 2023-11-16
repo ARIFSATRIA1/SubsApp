@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SubsApp</string>
+    <string name="sincewas">Price : %d</string>
+    <string name="home">Home</string>
+    <string name="favorit">Favorit</string>
+    <string name="profile">Profile</string>
+    <string name="Gambar_anime">Gambar Anime</string>
+    <string name="back">Kembali</string>
+    <string name="error">Error</string>
+    <string name="TambahKeKeranjang">Tambah Ke Keranjang %1$d</string>
+    <string name="Keranjang">Keranjang</string>
+    <string name="share_message">Hey I Have redeem $1$d Anime in AnimeApp with total %2$d Points. Do You Want Too?</string>
+    <string name="total_price">Total Price : %1$d </string>
+    <string name="total_order">Total pesanan : $d Pts</string>
+    <string name="nama">M.Arif Satria</string>
+    <string name="email">arifsatria5554@gmail.com</string>
+    <string name="pencarian">Cari Anime Favorit Anda !!</string>
+</resources>
